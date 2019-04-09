@@ -2,10 +2,8 @@
 # -*- coding: utf-8 -*
 
 """
-COMS W4701 Artificial Intelligence - Programming Homework 2
 
-An AI player for Othello. This is the template file that you need to  
-complete and submit. 
+An AI player for Othello.  
 
 @author: Mythili Sankara
 """
